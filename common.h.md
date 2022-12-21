@@ -1,0 +1,6 @@
+- [[README]]
+- [[My webpages]]
+- [excel to md](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/)
+- [[Math symbols in md]] and [[markdown basics]]
+- [[common windows problems]]
+- 

@@ -1,0 +1,1 @@
+- to be developed with data on how to fix my oneplus 6t
