@@ -5,3 +5,4 @@
 5. fast wave func collapse [IDK](https://github.com/math-fehr/fast-wfc)
 6. Docker --> [[Docker]]
 7. Visual studio --> [[vs code auto pch]]
+8. Git --> [[Git]]
