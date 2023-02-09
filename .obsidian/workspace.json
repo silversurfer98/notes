@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily imps.md",
+                "file": "Tech/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily imps.md",
+                "file": "Tech/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily imps.md",
+                "file": "Tech/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily imps.md"
+                "file": "Tech/Git.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "769f99070abe85ff",
   "lastOpenFiles": [
-    "Tech/vs code auto pch.md",
     "Tech/tech.md",
+    "daily imps.md",
+    "Tech/vs code auto pch.md",
     "Tech/Docker.md",
     "Tech/Git.md",
     "topsoe/sep tower/sep tower - GIPS.md",
     "topsoe/sep tower/sep tower.excalidraw.md",
-    "daily imps.md",
     "misc/programming-language-resources.md",
     "README.md",
     "Tech/termux.md"
