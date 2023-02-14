@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Git.md",
+                "file": "topsoe/HX/heat excahgers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "64fe96a86ae643b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Git.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Git.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Git.md"
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
               }
             }
           },
@@ -156,17 +167,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "769f99070abe85ff",
+  "active": "64fe96a86ae643b7",
   "lastOpenFiles": [
+    "topsoe/HX/heat excahgers.md",
+    "Tech/Git.md",
     "Tech/tech.md",
     "daily imps.md",
     "Tech/vs code auto pch.md",
     "Tech/Docker.md",
-    "Tech/Git.md",
     "topsoe/sep tower/sep tower - GIPS.md",
     "topsoe/sep tower/sep tower.excalidraw.md",
     "misc/programming-language-resources.md",
-    "README.md",
-    "Tech/termux.md"
+    "README.md"
   ]
 }
