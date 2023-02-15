@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topsoe/HX/heat excahgers.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topsoe/HX/heat excahgers.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topsoe/HX/heat excahgers.md"
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
               }
             }
           },
@@ -166,10 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "769f99070abe85ff",
+  "active": "64fe96a86ae643b7",
   "lastOpenFiles": [
-    "topsoe/HX/Fouling factors.md",
     "topsoe/HX/heat excahgers.md",
+    "topsoe/HX/Fouling factors.md",
     "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "Tech/Git.md",
     "Tech/tech.md",
