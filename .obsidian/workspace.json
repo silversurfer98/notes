@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playground/CoolProps/PropsSI.md",
+                "file": "My webpages.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "playground/CoolProps/PropsSI.md",
+                "file": "My webpages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "playground/CoolProps/PropsSI.md",
+                "file": "My webpages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "playground/CoolProps/PropsSI.md"
+                "file": "My webpages.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "06d7a49aa0d40fb3",
   "lastOpenFiles": [
+    "playground/CoolProps/PropsSI.md",
     "playground/CoolProps/using coolprop.md",
     "topsoe/HX/heat excahgers.md",
     "topsoe/misc/Learnings.md",
@@ -191,7 +192,6 @@
     "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "Excalidraw/Drawing 2023-02-16 10.03.50.excalidraw.md",
     "topsoe/HX/Fouling factors.md",
-    "Tech/Git.md",
-    "Tech/tech.md"
+    "Tech/Git.md"
   ]
 }
