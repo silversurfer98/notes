@@ -11,11 +11,28 @@
             "id": "46406fa210f8ef33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "topsoe/HX/heat excahgers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9aaffc95ecf00e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "playground/CoolProps/using coolprop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "playground/CoolProps/using coolprop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "playground/CoolProps/using coolprop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "playground/CoolProps/using coolprop.md"
+              }
             }
           },
           {
@@ -148,14 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46406fa210f8ef33",
+  "active": "e9aaffc95ecf00e2",
   "lastOpenFiles": [
+    "topsoe/HX/heat excahgers.md",
     "topsoe/misc/Learnings.md",
     "Math symbols in md.md",
     "topsoe/sep tower/sep tower - GIPS.md",
     "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "Excalidraw/Drawing 2023-02-16 10.03.50.excalidraw.md",
-    "topsoe/HX/heat excahgers.md",
     "topsoe/HX/Fouling factors.md",
     "Tech/Git.md",
     "Tech/tech.md",
