@@ -6,8 +6,9 @@
 import CoolProp
 import CoolProp.CoolProp as cp
 
+#print the version
 print('CoolProp version: ', CoolProp.__version__)
-print('CoolProp gitrevision: ', CoolProp.__gitrevision__)
+#list all gases
 print('CoolProp fluids: ', CoolProp.__fluids__)
 
 #usage
