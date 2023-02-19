@@ -6,3 +6,4 @@
 6. Docker --> [[Docker]]
 7. Visual studio --> [[vs code auto pch]]
 8. Git --> [[Git]]
+9. create a C++ keylogger --> [YouTube](https://www.youtube.com/watch?v=sLeM686uLY0)

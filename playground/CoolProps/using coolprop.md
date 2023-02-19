@@ -1,4 +1,7 @@
 - this is a python pip package
+- cannot compute for mixture of gases, didnt have any interaction parameters
+
+### did u think u can use this as a process simulator
 
 > documentation old --> [link](http://www.coolprop.org/v4/apidoc/CoolProp.html)
 
