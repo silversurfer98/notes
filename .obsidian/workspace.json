@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "engg/Chemical engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "engg/Chemical engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "engg/Chemical engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "engg/Chemical engineering.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "a3e1be70039ae691",
   "lastOpenFiles": [
+    "Question.md",
+    "README.md",
     "topsoe/Fluid coupling.md",
     "common.h.md",
     "hobby/Songs to download.md",
@@ -165,8 +167,6 @@
     "Tech/tech.md",
     "Tech/SQL.md",
     "Tech/MQTT.md",
-    "Tech/Misc.md",
-    "Tech/Git.md",
-    "Tech/Docker.md"
+    "Tech/Misc.md"
   ]
 }
