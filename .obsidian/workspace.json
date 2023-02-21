@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engg/Chemical engineering.md",
+                "file": "topsoe/HX/heat excahgers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6091ae7d24a1afd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "engg/Chemical engineering.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "engg/Chemical engineering.md",
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "engg/Chemical engineering.md"
+                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
               }
             }
           },
@@ -156,8 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3e1be70039ae691",
+  "active": "6091ae7d24a1afd1",
   "lastOpenFiles": [
+    "topsoe/HX/heat excahgers.md",
+    "engg/Chemical engineering.md",
     "Question.md",
     "README.md",
     "topsoe/Fluid coupling.md",
@@ -165,8 +178,6 @@
     "hobby/Songs to download.md",
     "Tech/arduino projects.md",
     "Tech/tech.md",
-    "Tech/SQL.md",
-    "Tech/MQTT.md",
-    "Tech/Misc.md"
+    "Tech/SQL.md"
   ]
 }
