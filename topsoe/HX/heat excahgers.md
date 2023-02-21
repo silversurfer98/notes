@@ -127,3 +127,5 @@ while ld_ratio<=10 and len<15:
 ```
 
 > for double segmental and disc dougnut types the no of baffles should always be even
+
+

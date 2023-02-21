@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
+                "file": "topsoe/HX/heat excahgers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
+                "file": "topsoe/HX/heat excahgers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
+                "file": "topsoe/HX/heat excahgers.md"
               }
             }
           },
@@ -167,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6091ae7d24a1afd1",
+  "active": "a3e1be70039ae691",
   "lastOpenFiles": [
+    "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "topsoe/HX/heat excahgers.md",
     "engg/Chemical engineering.md",
     "Question.md",
@@ -177,7 +177,6 @@
     "common.h.md",
     "hobby/Songs to download.md",
     "Tech/arduino projects.md",
-    "Tech/tech.md",
-    "Tech/SQL.md"
+    "Tech/tech.md"
   ]
 }
