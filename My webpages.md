@@ -15,6 +15,7 @@
 6. NPTEL Process Equipment design ----$\to$ [link](https://nptel.ac.in/courses/103/107/103107207/)
 -----------------------------
 7. FFT Solving PDE's IMPORTANT   --$\to$    [link](https://www.youtube.com/watch?v=BkA7ncY0b7I&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+8. optimization in scipy [link](http://apmonitor.com/pdc/index.php/Main/NonlinearProgramming)
 9. Matrix Algebra for Engineers ----$\to$ [link](https://www.youtube.com/watch?v=vKBNzM3V-Rc&list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx)
 10. Simple SVD algorithms   -$\to$  [link](https://towardsdatascience.com/simple-svd-algorithms-13291ad2eef2?gi=84ec3c2023a0)
 11. SSL for localhost and own CA -$\to$ [link](https://www.section.io/engineering-education/how-to-get-ssl-https-for-localhost/)
@@ -31,7 +32,8 @@
 1. https://www.youtube.com/watch?v=ZNHx62HbKNA&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&index=49
 2. https://www.youtube.com/watch?v=cXHvC_FGx24&list=PLLBUgWXdTBDhrs5FuoJXni-cIeNYEyxw1
 3. http://apmonitor.com/pdc/index.php/Main/FirstOrderSystems
-4. https://diffeq.sciml.ai/stable/tutorials/bvp_example/
+4. [julia diff eqn](https://diffeq.sciml.ai/stable/tutorials/bvp_example/)
 5. https://www.youtube.com/watch?v=cxkVxi9P0EA&list=PLzqS33DOPhJkyAjXYEudx3Pwxbq8-1K8F&index=56
 6. https://www.youtube.com/watch?v=oQDi3Giv-DI
 7. http://www.efgh.com/software/mpuint.htm
+8. numerical soln to partial differential [link](https://www.youtube.com/watch?v=G2gxvRjQHxc)
