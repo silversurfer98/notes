@@ -1,4 +1,5 @@
-1. 
+### references --> IN-827-EN and SP-345-EN
+1. various metals
 ![[Pasted image 20230306135001.png]]
 The above is the materials used widely --> + means add that element U will get to the next one
 
@@ -7,3 +8,9 @@ The above is the materials used widely --> + means add that element U will get t
 
 3. Creep (very very important)
 ![[Pasted image 20230306135312.png]]
+
+4. PWHT on CS and LAS why?
+![[Pasted image 20230306165029.png]]
+
+5. meta properties
+![[Pasted image 20230306165231.png]]
