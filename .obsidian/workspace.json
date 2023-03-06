@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topsoe/corrosion/Corrosion I.md",
+                "file": "Math symbols in md.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "6091ae7d24a1afd1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "topsoe/HX/Excalidraw/HX geometry.excalidraw.md"
+                "file": "topsoe/corrosion/Corrosion I.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topsoe/corrosion/Corrosion I.md",
+                "file": "Math symbols in md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topsoe/corrosion/Corrosion I.md",
+                "file": "Math symbols in md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topsoe/corrosion/Corrosion I.md"
+                "file": "Math symbols in md.md"
               }
             }
           },
@@ -193,14 +195,18 @@
   },
   "active": "c40c155cc152b5d4",
   "lastOpenFiles": [
-    "My webpages.md",
     "topsoe/corrosion/Corrosion I.md",
+    "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
+    "Math symbols in md.md",
+    "Pasted image 20230306135312.png",
+    "Pasted image 20230306135217.png",
+    "Pasted image 20230306135001.png",
+    "My webpages.md",
     "topsoe/corrosion",
     "engg/Chemical engineering.md",
     "topsoe/WHB/Loop WHB.md",
     "topsoe/WHB/WHB.md",
     "topsoe/HX/heat excahgers.md",
-    "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "Question.md",
     "README.md",
     "topsoe/Fluid coupling.md",

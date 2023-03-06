@@ -310,8 +310,8 @@ High del P ^quyEDOcD
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 118943707,
+			"version": 113,
+			"versionNonce": 1844875672,
 			"isDeleted": false,
 			"id": "zOPmWIOr",
 			"fillStyle": "hachure",
@@ -324,13 +324,13 @@ High del P ^quyEDOcD
 			"y": -265.3309494652429,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 106,
+			"width": 107,
 			"height": 25,
 			"seed": 658859686,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1674186439757,
+			"updated": 1678090996904,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -478,8 +478,8 @@ High del P ^quyEDOcD
 		},
 		{
 			"type": "text",
-			"version": 312,
-			"versionNonce": 894936608,
+			"version": 313,
+			"versionNonce": 2141647848,
 			"isDeleted": false,
 			"id": "ev7NpeKI",
 			"fillStyle": "hachure",
@@ -492,7 +492,7 @@ High del P ^quyEDOcD
 			"y": 526.8569239152989,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 453,
+			"width": 455,
 			"height": 43,
 			"seed": 1903150714,
 			"groupIds": [],
@@ -507,14 +507,14 @@ High del P ^quyEDOcD
 					"type": "arrow"
 				}
 			],
-			"updated": 1672219314376,
+			"updated": 1678090996906,
 			"link": null,
 			"locked": false,
 			"fontSize": 34.22879207783101,
 			"fontFamily": 1,
 			"text": "No in topsoe --> huge cost",
 			"rawText": "No in topsoe --> huge cost",
-			"baseline": 30,
+			"baseline": 31,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -579,7 +579,7 @@ High del P ^quyEDOcD
 			"y": -229.3274336126059,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 97,
+			"width": 98,
 			"height": 25,
 			"seed": 1089043942,
 			"groupIds": [],
@@ -614,14 +614,16 @@ High del P ^quyEDOcD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 730.9568164853812,
-		"scrollY": 431.7690323631799,
+		"scrollX": 975.9618669904318,
+		"scrollY": 449.3700424641901,
 		"zoom": {
-			"value": 0.55
+			"value": 0.45
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
-		"colorPalette": {}
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
 	},
 	"files": {}
 }
