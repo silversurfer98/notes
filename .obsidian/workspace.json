@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c567c2dea95718a4",
+        "id": "65a3aef64d02527c",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e1be70039ae691",
+            "id": "28905b2d1a4013bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topsoe/WHB/WHB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9c99bb006deeae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topsoe/corrosion/Corrosion I.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c40c155cc152b5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topsoe/corrosion/Corrosion I.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "optimi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topsoe/WHB/WHB.md",
+                "file": "topsoe/corrosion/images/Pasted image 20230307164554.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topsoe/WHB/WHB.md",
+                "file": "topsoe/corrosion/images/Pasted image 20230307164554.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topsoe/WHB/WHB.md"
+                "file": "topsoe/corrosion/images/Pasted image 20230307164554.png"
               }
             }
           },
@@ -180,22 +152,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3e1be70039ae691",
+  "active": "b88d8a515c2f0f15",
   "lastOpenFiles": [
-    "topsoe/corrosion/Corrosion I.md",
     "topsoe/corrosion/Corrosion II.md",
-    "topsoe/WHB/WHB.md",
+    "topsoe/corrosion/images/Pasted image 20230307165114.png",
+    "topsoe/corrosion/images/Pasted image 20230307165018.png",
+    "topsoe/corrosion/images/Pasted image 20230307164931.png",
+    "topsoe/corrosion/images/Pasted image 20230307164820.png",
+    "topsoe/corrosion/images/Pasted image 20230307164650.png",
+    "topsoe/corrosion/images/Pasted image 20230307164554.png",
+    "My webpages.md",
     "Excalidraw/Drawing 2023-03-06 16.53.13.excalidraw.md",
+    "topsoe/WHB/WHB.md",
+    "topsoe/corrosion/Corrosion I.md",
     "Excalidraw",
     "topsoe/corrosion/images/Pasted image 20230306135001.png",
-    "My webpages.md",
     "topsoe/corrosion/images",
     "topsoe/corrosion/images/Pasted image 20230306165231.png",
     "topsoe/corrosion/images/Pasted image 20230306165029.png",
     "Math symbols in md.md",
     "topsoe/HX/Excalidraw/HX geometry.excalidraw.md",
     "topsoe/corrosion/images/Pasted image 20230306135312.png",
-    "topsoe/corrosion/images/Pasted image 20230306135217.png",
     "topsoe/corrosion",
     "engg/Chemical engineering.md",
     "topsoe/WHB/Loop WHB.md",
